@@ -25,7 +25,8 @@ If chrome is not installed ,
 
          1. Go to https://mvnrepository.com/
          2. Search by browser name you want to execute automation
-         ![sb](https://user-images.githubusercontent.com/106836713/233071935-b5296036-b3a3-46f4-98bd-bb585d95bf91.PNG)
+        
+
          
          3. Select suitable version (recommend to use latest version, due to browser updatea)
          4. after selection you'll be redirected to specific page which has a code like code in above(line 53-58)
