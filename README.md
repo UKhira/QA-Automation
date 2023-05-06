@@ -11,6 +11,8 @@ make sure you have installed Google Chrome on your pc and have a stable internet
 If chrome is not installed ,
    
  Open pom.xml and change
+ 
+ in line number 53-58
          
          <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-chrome-driver -->
          <dependency>
@@ -19,9 +21,7 @@ If chrome is not installed ,
              <version>4.8.1</version>
          </dependency>
 
-         in line number 53-58
-
-         in whatever browser installed in your pc/you want to execute this program by 
+in whatever browser installed in your pc/you want to execute this program by 
 
 1. Go to https://mvnrepository.com/
 2. Search by browser name you want to execute automation
